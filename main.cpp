@@ -13,7 +13,7 @@
 int maxX,maxY,x,y;
 int score = 0;
 bool game = true;
-		bool terpilihq = 0;
+bool terpilihq = 0;
 int skor = 200, waktu = 1320;  
 int dekkartu[30]={0}, kartuHost=0;
 
@@ -118,6 +118,9 @@ void pimsid1() {
 	//Order diskusi itu makan waktu 60 (30 menit), order makan waktu 6(3 menit), ijin dkk makan waktu 1(30 detik)
 	//game over kalo waktunya habis
 	//menang kalo udh nyusurin bab 1 - 8 + evaluasi ulang sebelum waktu habis
+	//Keknya gak bakal selesai
+	//males juga ngelanjutin
+	//:)
 }
 
 int main() {
